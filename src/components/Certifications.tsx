@@ -44,6 +44,16 @@ const Certifications = () => {
     skills: ['Clustering', 'K-means', 'Recommender Systems', 'Q-Learning'],
     verifyUrl: 'https://coursera.org/share/58669ca84523acf2392761c95b644eb3',
   },
+  {
+  title: 'Cisco Forecast League Bengaluru 2025',
+  issuer: 'Cisco Systems, Inc.',
+  date: '2025-04-10',
+  credentialId: 'CISCO-FLB-2025',
+  status: 'Completed',
+  description: 'Participated in the Cisco Forecast League Bengaluru 2025 program, contributing analytical thinking, engagement, and innovative mindset to enrich the competition experience.',
+  skills: ['Forecasting', 'Analytical Thinking', 'Innovation', 'Continuous Learning'],
+  verifyUrl: 'https://credsverse.com/credentials/59a64613-cb32-4dbe-ae63-1241035c37ed?preview=1'
+}
 ];
 
 
