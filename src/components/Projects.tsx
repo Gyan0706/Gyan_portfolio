@@ -61,6 +61,13 @@ const projects = [
     category: 'Automation',
     icon: Code,
   },
+  {
+  title: 'Stream Social LMS',
+  description: 'A social learning platform built with Next.js, integrating Supabase for authentication, Stream for real-time chat, and Stream Video SDK for live video sessions.',
+  tech: ['Next.js', 'Supabase', 'Stream Chat', 'Stream Video', 'Shadcn UI'],
+  category: 'Web App',
+  icon: Globe,
+},
 ];
 
   return (
