@@ -16,7 +16,7 @@ const Education = () => {
       institution: 'Deeksha C F L PU College',
       location: 'Bengaluru, India',
       period: '2021 - 2022',
-      percentage: '96.67%',
+      percentage: '96.16%',
     },
   ];
 
